@@ -1,0 +1,147 @@
+@media only screen and (min-width:320px) {
+    
+}
+@media only screen and (min-width:480px) {
+
+}
+@media only screen and (min-width: 576px){
+
+}
+@media only screen and (min-width:768px) {
+    
+    .background-transition-container {
+        &.active .background-hover {
+            left: -100%;
+        }
+
+        &:hover .background-hover {
+            left: 0;
+        }
+    }
+
+    form .border-format input, .total-border-format textarea {
+        font-size: 16px;
+    }
+    .module-two-columns .content h2 {
+        font-size: 50px;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 2.86px;
+    }
+    .module-hero .title-content h1 {
+        font-size: 52px;
+        line-height: 1.13;
+        letter-spacing: 1.49px;
+    }
+    .module-hero .text-content {
+        font-size: 17px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.65;
+        letter-spacing: 1.5px;
+    }
+    .module-two-columns .content .container-stain .text-content {
+        font-size: 16px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+    }
+    .joined-sections .text-content {
+        font-size: 16px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+    }
+    .module-hero .title-content {
+        max-width: calc(100% - 309px);
+        padding: 55px 0 33px;
+    }
+    .module-two-columns {
+        min-height: 554px;
+    }
+    .module-two-columns .top-bar h4 {
+        font-size: 16px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 0.6px;
+        text-align: left;
+    }
+    .module-two-columns .top-bar h3 {
+        font-size: 40px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 2.29px;
+    }
+    .joined-sections .title-content h2 {
+        font-size: 50px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 2.86px;
+    }
+    .module-hero .img-content img {
+        max-width: calc(100% - 170px);
+    }
+}
+@media only screen and (min-width: 992px) {
+    .module-two-columns {
+        min-height: 635px;
+    }
+    .module-two-columns .content h2 {
+        font-size: 60px;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 3.43px;
+    }
+
+    .module-hero .title-content h1 {
+        font-size: 70px;
+        line-height: normal;
+        letter-spacing: 2px;
+    }
+
+    .module-hero .title-content {
+        padding: 62px 0 52px;
+    }
+    .module-hero .text-content{
+        padding: 0 15px 19px;
+    }
+}
+@media only screen and (min-width:1024px) {
+
+}
+@media only screen and (min-width:1110px) {
+
+}
+
+@media only screen and (min-width:1200px) {
+
+}
+
+@media only screen and (min-width:1270px) {
+
+}
+@media (max-width: 767px){
+  
+}
+@media only screen and (max-width: 991px){
+    
+}
+@media only screen and (max-width: 575px){
+    
+}
+@media only screen and (max-width: 380px){
+    
+}
